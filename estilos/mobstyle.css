@@ -2,7 +2,7 @@
 
 *{
     padding: 0px;
-    margin: 0px;
+    margin: 10px;
 }
 
 body{
@@ -47,8 +47,8 @@ div#bot{
 video{
     display: none;
     width: 300px;
-    margin-left: 40px;  
+    margin-left: 37px;  
     margin-top: 10px;
     border-radius: 10px;
-    
+    margin: auto;
 }

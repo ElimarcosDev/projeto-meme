@@ -2,16 +2,8 @@
 
 /*tablet*/
 
-@media screen and (min-width: 768px) {
-    div#bot{
-        position: absolute;
-        width: 100px;
-        height: 40px;
-        display: block;
-        left: 50%;
-        top: 50%;
-        transform: translate(-50%, 800%);
-    }
+@media screen and (min-width: 768px) and (max-width: 1049px) {
+    
     
     video{
         width: 500px;
@@ -25,15 +17,7 @@
     /*PC*/
 
 @media screen and (min-width: 1050px) {
-    div#bot{
-        position: absolute;
-        width: 100px;
-        height: 40px;
-        display: block;
-        left: 50%;
-        top: 50%;
-        transform: translate(-50%, 800%);
-    }
+    
    
     video{
         width: 500px;
@@ -41,5 +25,12 @@
         margin-top: 10px;
         border-radius: 10px;
         
+
+        
+       
     }
 }
+
+
+
+
