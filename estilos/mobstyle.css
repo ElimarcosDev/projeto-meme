@@ -35,7 +35,7 @@ div#bot{
     display: block;
     left: 50%;
     top: 50%;
-    transform: translate(-50%, 800%);
+    transform: translate(-50%, 700%);
 }
 #bot > h1:hover{
     cursor: pointer;
